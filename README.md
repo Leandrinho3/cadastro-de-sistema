@@ -5,6 +5,6 @@
 Para rodar esse projeto em sua máquina, por favor digite:
 
 ```
-por favor npm install react
+node main.js
 
 ```
